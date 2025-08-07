@@ -1,0 +1,6 @@
+# Ignore garbage files and folders
+bin/
+.settings/
+.classpath
+.project
+*.class

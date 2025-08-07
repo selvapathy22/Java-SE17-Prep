@@ -1,0 +1,57 @@
+[33mcommit 56127cecb528a406ba03a29720728bc7a03840f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Selvapathy C <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 17:05:23 2025 +0530
+
+    Remove all extra folders, keep only day1 and day2
+
+[33mcommit 5c7b71c631c14af3862086d255992c7ccb00726f[m
+Merge: 5efcdd6 0f2e3d4
+Author: Selvapathy C <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 17:01:05 2025 +0530
+
+    Merge branch 'main' of https://github.com/selvapathy22/Java-SE17-Prep
+    
+    Merge branch 'main' of https://github.com/selvapathy22/Java-SE17-Prep
+
+[33mcommit 5efcdd627a49a19c9894df836e5d6bc5320241f8[m
+Author: Selvapathy C <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 17:00:07 2025 +0530
+
+    Restore day1 and day2 contents from backup
+
+[33mcommit 0f2e3d49f5f2ef5f0d8871f7aa167b39c0083c21[m
+Author: selvapathy22 <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 16:12:57 2025 +0530
+
+    Remove Eclipse/compiled files from GitHub and add .gitignore
+
+[33mcommit 2e7ad715e69b1b0b87afdc910ee20bf7fec2b130[m
+Author: selvapathy22 <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 16:10:54 2025 +0530
+
+    Clean commit: Added only source code and .gitignore
+
+[33mcommit 437810c8e220412b5a96f6f880eb536113bb337f[m
+Merge: 3d9d770 25e8ca5
+Author: selvapathy22 <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 16:08:03 2025 +0530
+
+    Merge branch 'main' of https://github.com/selvapathy22/Java-SE17-Prep
+
+[33mcommit 3d9d7706f2b0680f0988f2ab3cfc1fb9becd01ed[m
+Author: selvapathy22 <selvapathyc22@gmail.com>
+Date:   Thu Aug 7 16:06:52 2025 +0530
+
+    Added Day 3 Java practice programs
+
+[33mcommit 25e8ca5e4cfcec5080815f26eedd8dc5bf4a8be5[m
+Author: selvapathy22 <selvapathyc22@gmail.com>
+Date:   Wed Aug 6 09:05:22 2025 +0530
+
+    Added Day 2 Java practice exercises
+
+[33mcommit 3091a5ac4482a7a393fbaf192790712bc47d3a1a[m
+Author: selvapathy22 <selvapathyc22@gmail.com>
+Date:   Tue Aug 5 16:07:20 2025 +0530
+
+    upload day1 - Java-SE17-Prep
